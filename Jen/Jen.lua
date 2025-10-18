@@ -424,7 +424,7 @@ Jen = {
 			'c_ortalab_lot_hand',
 			'j_cry_pity_prize',
 			'j_cry_formidiulosus',
-			'j_cry_oil_lamp', -- there was originally a comment here, but i lost it to time. something about a reference to
+			'j_cry_oil_lamp', -- there was originally a comment here, but i lost it to time. something about a reference to Morshu from Legend of Zelda CDi?
 			'j_cry_tropical_smoothie',
 			'!j_cry_jawbreaker',
 			'j_cry_necromancer',
