@@ -26,3 +26,10 @@ Cryptid (==0.5.5a~dev2)
 The version of Cryptid that Jens was using was taken down from the releases page of their GitHub, so it has been included here.
 
 Although not an official dependency, **Incantation** is also a mod that Jen had made that improves performance by stacking consumables, so it has been added here as well.
+
+## Notes
+Newer versions of Steamodded break all supplied mods, including versions of the mods that are not explicitly required by POLTERWORX. What I have provided is a carbon-copy of a majority of what was in the "full version" of POLTERWORX, rather than just the dependencies.
+
+The version of Steamodded taken from the "full version" of POLTERWORX was taken down, and so, it has also been supplied.
+
+Perhaps instead of following in the footsteps of an indie mod acting like a corporation, the open-source community should be preserving what works, even if the art has been taken down?
